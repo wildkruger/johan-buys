@@ -1,0 +1,31 @@
+{
+    "name": "techvillage/merchantpaylink",
+    "description": "A Laravel module that provides functionality for merchants to receive payments via unique pay links and QR codes. Includes features for generating links, displaying QR codes, and handling various payment methods securely.",
+    "type": "module",
+    "authors": [
+        {
+            "name": "Sufian Techvill",
+            "email": "sufian.techvill@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "illuminate/support": "^8.0|^9.0|^10.0",
+        "simple-qrcode/simple-qrcode": "^2.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\MerchantPayLink\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

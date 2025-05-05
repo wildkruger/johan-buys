@@ -1,0 +1,16 @@
+{
+    "name": "MerchantPayLink",
+    "alias": "merchantpaylink",
+    "description": "The Merchant Public Pay Link module in the PayMoney application enables merchants to easily receive payments through a unique payment link or QR code. Upon registration, each merchant is provided with a personalized pay link and QR code that directs payers to a secure payment page.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MerchantPayLink\\Providers\\MerchantPayLinkServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "Helpers/helpers.php"
+    ],
+    "requires": [],
+    "version": "1.0.0"
+}

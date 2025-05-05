@@ -1,0 +1,20 @@
+@media only screen and (max-width: 300px) {
+    .pull-right {
+        float: left;
+    }
+}
+.jst-hours {
+    float: left;
+}
+.jst-minutes {
+    float: left;
+}
+.jst-seconds {
+    float: left;
+}
+.jst-clearDiv {
+    clear: both;
+}
+.color-green{
+    color: #84c85d;
+}

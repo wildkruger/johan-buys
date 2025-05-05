@@ -1,0 +1,116 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #121212;
+}
+
+hr {
+    border-top: 1px solid #f0f0f0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.code td {
+    padding: 5px;
+}
+
+.container {
+    width: 900px;
+    margin: auto;
+    top: 20px;
+    position: relative;
+}
+
+.imglogo {
+    width: 288;
+    height: 90;
+}
+
+.imgdefaultlogo {
+    width: 288;
+    height: 90;
+}
+
+.td-15 {
+    font-size: 15px;
+    color: #4e5c6e;
+    line-height: 22px;
+}
+
+.d-16 {
+    font-size: 16px;
+    color: #000000;
+    line-height: 25px;
+    font-weight: bold;
+}
+
+.table_one {
+    margin-top: 20px;
+    width: 300px;
+}
+
+.detailscol {
+    font-size: 16px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.exchange_amount {
+    font-size: 15px;
+    color: #000000;
+}
+
+.symbol {
+    font-size: 15px;
+    color: #4e5c6e;
+    text-align: right;
+}
+
+.colspan2 {
+    border-top: 1px solid #eaeaea;
+    padding-top: 0;
+    margin-bottom: 3px;
+}
+
+.fee {
+    font-size: 15px;
+    color: #000000;
+}
+
+.total {
+    font-size: 15px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.optional {
+    font-size: 15px;
+    color: #4e5c6e;
+    text-align: right;
+    font-weight: bold;
+}
+
+.mt-table {
+    margin-bottom: 40px;
+}
+
+.tr-padding {
+    padding-bottom: 10px;
+}
+
+.form-title {
+    font-size: 16px;
+    color: #000000;
+    line-height: 25px;
+    font-weight: bold;
+}
+
+.text-15 {
+    font-size: 15px;
+    color: #4e5c6e;
+    text-align: right;
+}
+.mt-20{
+    margin-top:20px;
+}

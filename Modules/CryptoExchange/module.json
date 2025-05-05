@@ -1,0 +1,16 @@
+{
+    "name": "CryptoExchange",
+    "alias": "cryptoexchange",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CryptoExchange\\Providers\\CryptoExchangeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "Entities/helper.php"
+    ],
+    "requires": [],
+    "version": 3.9
+}

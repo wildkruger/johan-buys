@@ -1,0 +1,9 @@
+table.dataTable th:nth-child(6) {
+    width: 12%;
+    word-wrap: break-word;
+    white-space: pre-line;
+}
+
+table.dataTable th:nth-child(1) {
+    width: 20%;
+}

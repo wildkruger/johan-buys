@@ -1,0 +1,41 @@
+body {
+    font-family: "DeJaVu Sans", Helvetica, sans-serif;
+    color: #121212;
+    line-height: 15px;
+}
+
+table, tr, td {
+    padding: 6px 6px;
+    border: 1px solid black;
+}
+
+tr {
+    height: 40px;
+}
+.div1{
+    width:100%; margin:0px auto;
+}
+.h-80{
+    height:80px;
+}
+.div2{
+    width:80%; float:left; font-size:13px; color:#383838; font-weight:400;
+}
+.div3{
+    width:20%; float:left;font-size:15px; color:#383838; font-weight:400;
+}
+.div4{
+    margin-top:30px;
+}
+.div5{
+    width:100%; border-radius:1px;  border-collapse: collapse;
+}
+.div6{
+    background-color:#f0f0f0;text-align:center; font-size:12px; font-weight:bold;
+}
+.div7{
+    background-color:#fff; text-align:center; font-size:12px; font-weight:normal;
+}
+.clearboth{
+    clear:both
+}
